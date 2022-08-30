@@ -15,8 +15,9 @@ more effectviely.
 N/A.
 
 ## Usage
+Here is a link to the deployed application to test everything. 
 
-N/A
+https://mrartrager.github.io/Challenge-1/ 
 
 ## Credits
 
